@@ -1,0 +1,45 @@
+# Disk DescriptorFile
+version=1
+encoding="windows-1252"
+CID=fffffffe
+parentCID=ffffffff
+createType="twoGbMaxExtentSparse"
+
+# Extent description
+RW 8323072 SPARSE "Ubuntu 64-bit-s001.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s002.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s003.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s004.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s005.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s006.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s007.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s008.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s009.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s010.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s011.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s012.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s013.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s014.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s015.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s016.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s017.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s018.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s019.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s020.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s021.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s022.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s023.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s024.vmdk"
+RW 8323072 SPARSE "Ubuntu 64-bit-s025.vmdk"
+RW 1638400 SPARSE "Ubuntu 64-bit-s026.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "lsilogic"
+ddb.geometry.cylinders = "13054"
+ddb.geometry.heads = "255"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "5574a6f4bbd5447602879f60fffffffe"
+ddb.uuid = "60 00 C2 96 f9 b9 19 84-5d f6 ac 96 8f 9a ee d2"
+ddb.virtualHWVersion = "16"
